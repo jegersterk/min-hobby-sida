@@ -1,0 +1,2 @@
+# min-hobby-sida
+lexicon
